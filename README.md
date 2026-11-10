@@ -6,12 +6,12 @@ To study the problem statement, SRS document and draw all the UML diagrams of AT
 
 # SRS (Procedure):
 
-Requirement Gathering
-Requirement Analysis
-System Design
-Prepare UML Diagrams
-Review the Design
-Document the SRS
+1. Requirement Gathering
+2. Requirement Analysis
+3. System Design
+4. Prepare UML Diagrams
+5. Review the Design
+6.Document the SRS
 
 # DIAGRAMS:
 
